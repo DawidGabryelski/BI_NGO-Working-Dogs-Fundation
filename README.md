@@ -48,6 +48,28 @@ Ta strona skupia się na tym skąd fundacja pozyskuje środki na swoje funkcjono
 
 Na tej stronie przedstawione są projekty i działania które prowadzi fundacja. Tak jak strona „Kim jesteśmy i co robimy” ta również dzieli się na trzy części pomiędzy, którymi można się poruszać za pomocą przycisków znajdujących się po lewej części strony w ramce zatytułowanej „Nasze projekty i inicjatywy”.
 
-#### 2.4.1 Zakładka #Adopsiaki
+#### 2.4.1 #Adopsiaki
 
-Uruchamiana zielonym przyciskiem, gdy jest aktywna przycisk zmienia kolor na biały z zielonym tekstem, a ramka przybiera kolor zielony. Tekst w ramce opisuje program ado psiaki, a u dołu znajduje się wykres kolumnowy, który przedstawia liczbę zgłoszeń do programu oraz liczbę rodzin przeszkolonych.
+Zakladka Uuuchamiana jest zielonym przyciskiem, gdy jest aktywna przycisk zmienia kolor na biały z zielonym tekstem, a ramka przybiera kolor zielony. Tekst w ramce opisuje program ado psiaki, a u dołu znajduje się wykres kolumnowy, który przedstawia liczbę zgłoszeń do programu oraz liczbę rodzin przeszkolonych.
+
+<img width="1117" height="630" alt="Strona 4-1" src="https://github.com/user-attachments/assets/f509f770-e7bb-413c-9054-2476183b1c67" />
+
+#### 2.4.2 Dla Bziznesu 
+
+Ta zakładka uruchamiana jest granatowym przyciskiem a gdy jest aktywna przycisk zmienia kolor na biały z granatowy tekstem oraz wyświatla się granatowe pole, które zawiera informację o tym co fundacja może zaproponować przedsiębiorstwom. U dołu wyświtlana jest liczba jaka w danym roku współpracowała z fundacją Working Dogs.
+
+<img width="1117" height="628" alt="Strona 4-2" src="https://github.com/user-attachments/assets/e73981c2-b410-4814-a320-3e1b162f3ec2" />
+
+#### 2.4.3 Dla Najmłodszych
+
+Jest to ostatnia część dashboardu. Uruchamiana jasnoniebieskim przyciskiem, gdy jest aktywna zmiania kolor na biały z czerwonym tekstem. Tak jak we wcześniejszych przypadkach tak i teraz pokazuje ona co fundacja ma do zaoferowania względem najmłodszych obywateli. W dole strony znajduje się tabela, która zawiera informacje o tym ile placówek oraz ile dzieci zostało w danym roku przeszkolonych w ramach działań fundacji.
+
+<img width="1116" height="630" alt="Strona 4-3" src="https://github.com/user-attachments/assets/823063de-4fa1-44d7-b72d-2abe11de19e1" />
+
+## 3 Podsumowanie
+
+Working Dogs to dynamicznie rozwijająca się fundacja która z roku na rok jest w stanie pomagać coraz większej liczbie psów i ich opiekunów. Fundacja ciągle się rozrasta, pozyskuje nowe źródła finansowania a także wzrasta liczba jej darczyńców. Program fundacji jest skierowany do każdej grupy społecznej i każdy znajdzie tam coś dla siebie. We wszystkich inicjatywach fundacji widoczny jest rok roczny trend wzrostowy co potwierdzają wzrastające liczby firm i szkół które współpracują z fundacją a także liczba chętnych na uczestnictwo w programie #Adopsiaki. 
+
+
+
+
