@@ -1,0 +1,37 @@
+﻿{
+    "name": "Clash & Haurora Custom Theme",
+    "dataColors": [
+        "#092E5A",
+        "#92DFF9",
+        "#0FA689",
+        "#ED4C3F",
+        "#517494",
+        "#829CB3",
+        "#AABECE",
+        "#CDDBE5"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontFamily": "Haurora",
+                        "fontSize": 11
+                    }
+                ],
+                "title": [
+                    {
+                        "show": true,
+                        "fontFamily": "Clash Grotesk",
+                        "fontSize": 14
+                    }
+                ],
+                "header": [
+                    {
+                        "fontFamily": "Clash Grotesk"
+                    }
+                ]
+            }
+        }
+    }
+}
