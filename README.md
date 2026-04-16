@@ -18,7 +18,7 @@ Pierwsze co widzimy po otwarciu dashboardu to strona główna, z której możemy
 
 ### 2.2. Kim jesteśmy i co robimy?
 
-Ta strona składa się z trzech części, które są od sobą oddzielone zakładkami. Wyboru kolejnej części (podstrony) możemy dokonać klikając w szary okrągły przycisk na dole, po kliknięciu stanie się on czerwony co ma pokazać, która część jest wybrana. W górze strony widać dwa przyciski. Przycisk w kształcie domku umożliwia powrót do strony głównej natomiast przycisk w kształcie strzałki skierowanej w prawo umożliwia przejście do kolejnej strony:
+Ta strona składa się z trzech części, które są od sobą oddzielone zakładkami. Wyboru kolejnej części (podstrony) możemy dokonać klikając w szary okrągły przycisk na dole, po kliknięciu stanie się on czerwony co ma pokazać, która część jest wybrana. W górze strony widać dwa przyciski. Przycisk w kształcie domku umożliwia powrót do strony głównej natomiast przycisk w kształcie strzałki skierowanej w prawo umożliwia przejście do kolejnej strony. Na kolejnych stronach znajdują się identyczne przyciski oraz przycisk służący do powrotu do strony poprzedniej w kształcie strzałki skierowanej w lewo.:
 
 #### 2.2.1 Kim Jesteśmy
 
@@ -56,19 +56,19 @@ Zakladka Uuuchamiana jest zielonym przyciskiem, gdy jest aktywna przycisk zmieni
 
 #### 2.4.2 Dla Bziznesu 
 
-Ta zakładka uruchamiana jest granatowym przyciskiem a gdy jest aktywna przycisk zmienia kolor na biały z granatowy tekstem oraz wyświatla się granatowe pole, które zawiera informację o tym co fundacja może zaproponować przedsiębiorstwom. U dołu wyświtlana jest liczba jaka w danym roku współpracowała z fundacją Working Dogs.
+Ta zakładka uruchamiana jest granatowym przyciskiem, a gdy jest aktywna przycisk zmienia kolor na biały z granatowy tekstem oraz wyświetla się granatowe pole, które zawiera informację o tym co fundacja może zaproponować przedsiębiorstwom. U dołu wyświetlana jest liczba, jaka w danym roku współpracowała z fundacją Working Dogs.
 
 <img width="1117" height="628" alt="Strona 4-2" src="https://github.com/user-attachments/assets/e73981c2-b410-4814-a320-3e1b162f3ec2" />
 
 #### 2.4.3 Dla Najmłodszych
 
-Jest to ostatnia część dashboardu. Uruchamiana jasnoniebieskim przyciskiem, gdy jest aktywna zmiania kolor na biały z czerwonym tekstem. Tak jak we wcześniejszych przypadkach tak i teraz pokazuje ona co fundacja ma do zaoferowania względem najmłodszych obywateli. W dole strony znajduje się tabela, która zawiera informacje o tym ile placówek oraz ile dzieci zostało w danym roku przeszkolonych w ramach działań fundacji.
+Jest to ostatnia część dashboardu. Uruchamiana jasnoniebieskim przyciskiem, gdy jest aktywna zmiana kolor na biały z czerwonym tekstem. Tak jak we wcześniejszych przypadkach tak i teraz pokazuje ona co fundacja ma do zaoferowania względem najmłodszych obywateli. W dole strony znajduje się tabela, która zawiera informacje o tym ile placówek oraz ile dzieci zostało w danym roku przeszkolonych w ramach działań fundacji.
 
 <img width="1116" height="630" alt="Strona 4-3" src="https://github.com/user-attachments/assets/823063de-4fa1-44d7-b72d-2abe11de19e1" />
 
 ## 3 Podsumowanie
 
-Working Dogs to dynamicznie rozwijająca się fundacja która z roku na rok jest w stanie pomagać coraz większej liczbie psów i ich opiekunów. Fundacja ciągle się rozrasta, pozyskuje nowe źródła finansowania a także wzrasta liczba jej darczyńców. Program fundacji jest skierowany do każdej grupy społecznej i każdy znajdzie tam coś dla siebie. We wszystkich inicjatywach fundacji widoczny jest rok roczny trend wzrostowy co potwierdzają wzrastające liczby firm i szkół które współpracują z fundacją a także liczba chętnych na uczestnictwo w programie #Adopsiaki. 
+Working Dogs to dynamicznie rozwijająca się fundacja, która z roku na rok jest w stanie pomagać coraz większej liczbie psów i ich opiekunów. Fundacja ciągle się rozrasta, pozyskuje nowe źródła finansowania, a także wzrasta liczba jej darczyńców. Program fundacji jest skierowany do każdej grupy społecznej i każdy znajdzie tam coś dla siebie. We wszystkich inicjatywach fundacji widoczny jest rokroczny trend wzrostowy co potwierdzają wzrastające liczby firm i szkół, które współpracują z fundacją, a także liczba chętnych na uczestnictwo w programie #Adopsiaki. 
 
 
 
